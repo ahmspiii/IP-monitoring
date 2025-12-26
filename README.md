@@ -1,6 +1,8 @@
 # IP-monitoring
 
-![image alt](https://github.com/ahmspiii/IP-monitoring/blob/841ab3b52f8cc4e65fa96392bdec74ffa7b31af1/automation.png)
+![image alt]()
+![image alt](https://github.com/ahmspiii/IP-monitoring/blob/a49f8b5b8720356fbe8bd0d1575e845c298dd1a5/ip-monitor.png)
+
 # Workflow Automation System
 
 This project implements two automated workflows for security monitoring and alerting. The system is designed to handle real-time webhook events and scheduled weekly checks.
