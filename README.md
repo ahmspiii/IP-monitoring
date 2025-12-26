@@ -1,6 +1,6 @@
 # IP-monitoring
 
-![Workflow Diagram](C:\Users\DEL\Desktop\automation.png)
+![Workflow Diagram](./automation.png)
 # Workflow Automation System
 
 This project implements two automated workflows for security monitoring and alerting. The system is designed to handle real-time webhook events and scheduled weekly checks.
